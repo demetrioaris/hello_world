@@ -14,12 +14,11 @@
 
 {Describe the tools that you used to develop the software}
 
- Visual Studio Code
-
+Visual Studio Code
 
 {Describe the programming language that you used}
 
-- <img src="https://skillicons.dev" height="20"       alt="Kotlin logo" /> **Kotlin:**
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kotlin_logo_%282021-present%29.svg?utm_source=es.wikipedia.org&utm_campaign=index&utm_content=original" height="20"       alt="Kotlin logo" /> **Kotlin:**
 
 # Useful Websites
 
