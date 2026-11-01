@@ -16,7 +16,7 @@
 
 **Visual Studio Code** is a IDE develope by Microsoft where we can develope software by multiple programming languages and support it by many extensions that make this tools good. 
 
-- <img src="https://wikimedia.org" height="20" />
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="20" />
 
 
 {Describe the programming language that you used}
