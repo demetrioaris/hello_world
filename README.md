@@ -14,13 +14,17 @@
 
 {Describe the tools that you used to develop the software}
 
-Visual Studio Code
+**Visual Studio Code** is a IDE develope by Microsoft where we can develope software by multiple programming languages and support it by many extensions that make this tools good. 
+
+- <img src="https://wikimedia.org" height="20" />
+
 
 {Describe the programming language that you used}
 
 **Kotlin** is a moderm language base on Java (JVM). Programming on object-oriented and block structure and others. The  Commun use in android app and preference use by Google develope apps. 
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kotlin_logo_%282021-present%29.svg" height="20" style="filter: invert(1);" />
+- <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kotlin_logo_%282021-present%29.svg" height="20" style="background-color: white; padding: 2px 6px; border-radius: 4px;" />
+
 
 
 # Useful Websites
