@@ -19,7 +19,7 @@
 
 {Describe the programming language that you used}
 
-Programming languages ==Kotlin== 
+- <img src="https://skillicons.dev" height="20"       alt="Kotlin logo" /> **Kotlin:**
 
 # Useful Websites
 
