@@ -18,7 +18,7 @@
 
 {Describe the programming language that you used}
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Kotlin_logo_%282021-present%29.svg" height="20" /> **Kotlin** is a moderm language base on Java (JVM). Programming on object-oriented and block structure and others. The Commun use in android app and preference use by Google develope apps.
+- <img src="https://es.wikipedia.org/wiki/Kotlin_(lenguaje_de_programaci%C3%B3n)#/media/Archivo:Kotlin_icon_(2021-present).svg" height="20" /> **Kotlin** is a moderm language base on Java (JVM). Programming on object-oriented and block structure and others. The Commun use in android app and preference use by Google develope apps.
 
 # Useful Websites
 
