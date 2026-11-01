@@ -24,5 +24,5 @@
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](https://kotlinlang.org/docs/kotlin-tour-hello-world.html)
-- [Web Site Name](http://url.link.goes.here)
+- [Get started with Kotlin](https://kotlinlang.org/docs/kotlin-tour-hello-world.html)
+- [KOTLIN Course from Scratch](https://www.youtube.com/watch?v=T3ugOYTRF7c&t=2838s)
