@@ -4,7 +4,13 @@
 
 {Provide a description of your software}
 
+The software I write is a example of hello world first step where I show the programming languages and the tools I will use for the couses. 
+
+
 {Describe your purpose for creating this software.}
+
+The purpuse is to show that I can work with these tools and I can be prepare for the rest of the courses. Share my code in GitHub and video.
+
 
 {Provide a link to your YouTube demonstration. It should be a one minute demo of the software running and a walkthrough of the code.}
 
@@ -15,6 +21,8 @@
 {Describe the tools that you used to develop the software}
 
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="20" /> **Visual Studio Code** is a IDE develope by Microsoft where we can develope software by multiple programming languages and support it by many extensions that make this tools good.
+
+- <img src="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/960px-GitHub_Invertocat_Logo.svg.png?utm_source=es.wikipedia.org&utm_campaign=imageinfo&utm_content=thumbnail" height="20" /> GitHub is a repository or online database  where we can save and share the programming and design of softwares. 
 
 {Describe the programming language that you used}
 
